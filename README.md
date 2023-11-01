@@ -1,8 +1,8 @@
 ## Pemograman Visual Dekstop
 
-NAMA  : SARA KHUSNUL MUMTAZAH
-KELAS :  TI.21.A.3
-NIM   : 312110319
+# NAMA  : SARA KHUSNUL MUMTAZAH
+# KELAS :  TI.21.A.3
+# NIM   : 312110319
 
 ## Faktorial
 ![Faktorial](https://github.com/Araatzh/Pemrograman-Visual-Dekstop/assets/149587446/e41a39bf-525d-48ea-b33e-ba6aac0285aa)
